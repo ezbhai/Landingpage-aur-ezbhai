@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+
+#main{
+    height:100%;
+    width:100%;
+    background-color:hsla(346, 17%, 70%, 1);
+    display:flex;
+}
+#part1{
+    height:100%;
+    width: 26%;
+    background-color: rgb(255, 0, 0);
+}
+#part2{
+    height:100%;
+    width: 68%;
+    background-color: rgb(59, 254, 0);
+}
+#part3{
+    height:100%;
+    width: 6%;
+    background-color: rgb(1, 252, 202);
+}
